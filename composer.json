@@ -1,0 +1,7 @@
+{
+  "name": "ipsos/grid",
+  "description": "Ipsos extension for ublaboo grid",
+  "require": {
+    "php": "^7.1"
+  }
+}
